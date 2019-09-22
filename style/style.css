@@ -1,0 +1,54 @@
+body {    
+    margin: 0px auto;
+    padding: 0;
+    }
+.info h1 {
+    width: 1024px;
+    background-color: coral;
+    margin: 0px auto;
+    border: 0;
+    color: rgb(29, 28, 28);
+    text-align: center;
+}
+.personal_info, .Summary, .Skills, .Experience, .Education, .language {
+    position: relative;
+    width: 1020px;
+    border: 1px solid coral;
+    border-left: 2px solid coral;
+    border-right: 2px solid coral;
+    margin: 0px auto;
+    background :#f1ede9;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.h2_contaner_info, .h2_contaner_Summary, .h2_contaner_Skills, 
+.h2_contaner_Experience, .h2_contaner_Education, .h2_contaner_language {
+    margin: 10px 20px;
+    }
+.personal_info p, .Summary p, .Education p, .language p {
+    margin: 10px 40px;
+    font-weight: 300;
+    margin: 20px;
+    }
+ .span_contaner_info {
+    font-weight: 600;
+    margin-right: 5px;
+    
+}
+.post-item {
+    position: absolute;
+    width: 170px;
+    height: 170px;
+    padding: 0;
+    top: 12px;
+    left: 850px;
+    
+}
+.photo {
+    margin: 0px;
+    box-shadow: 0 0 12px;
+   
+}
+a {
+    text-decoration: none;
+}
