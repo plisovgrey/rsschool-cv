@@ -12,8 +12,10 @@ body {
 }
 .personal_info, .Summary, .Skills, .Experience, .Education, .language {
     position: relative;
-    width: 1022px;
+    width: 1020px;
     border: 1px solid coral;
+    border-left: 2px solid coral;
+    border-right: 2px solid coral;
     margin: 0px auto;
     background :#f1ede9;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
